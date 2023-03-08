@@ -1,7 +1,7 @@
 class Route {
-    constructor(){
-        this.id;
-        this.init;
-        this.end;
-    }
+  constructor() {
+    this.id;
+    this.init;
+    this.end;
+  }
 }
